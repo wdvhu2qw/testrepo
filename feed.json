@@ -1,0 +1,40 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pegasus Bayim",
+    "description": "",
+    "home_page_url": "file:///C:\Users\halil\Documents\Publii\sites\pegasus-bayim\preview",
+    "feed_url": "file:///C:\Users\halil\Documents\Publii\sites\pegasus-bayim\preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "pegasusbayim.com"
+    },
+    "items": [
+        {
+            "id": "file:///C:\Users\halil\Documents\Publii\sites\pegasus-bayim\preview/thy-osmangazi-ucak-bileti-telefon.html",
+            "url": "file:///C:\Users\halil\Documents\Publii\sites\pegasus-bayim\preview/thy-osmangazi-ucak-bileti-telefon.html",
+            "title": "THY Osmangazi Uçak Bileti Telefon",
+            "image": "file:///C:\Users\halil\Documents\Publii\sites\pegasus-bayim\preview/media/posts/2/pin1.jpg",
+            "author": {
+                "name": "pegasusbayim.com"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-26T02:58:54+03:00",
+            "date_modified": "2021-01-26T02:58:54+03:00"
+        },
+        {
+            "id": "file:///C:\Users\halil\Documents\Publii\sites\pegasus-bayim\preview/some-sort-or-thing.html",
+            "url": "file:///C:\Users\halil\Documents\Publii\sites\pegasus-bayim\preview/some-sort-or-thing.html",
+            "title": "some sort or thing",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/EsVOmWUXAAAWC7m.png\" sizes=\"(max-width: 768px) 100vw, 1360px\" srcset=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/responsive/EsVOmWUXAAAWC7m-xs.png 300w ,file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/responsive/EsVOmWUXAAAWC7m-sm.png 480w ,file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/responsive/EsVOmWUXAAAWC7m-md.png 768w ,file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/responsive/EsVOmWUXAAAWC7m-lg.png 1024w ,file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/responsive/EsVOmWUXAAAWC7m-xl.png 1360w\"  alt=\"\" width=\"817\" height=\"557\"></figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/pngwing.com.png\" data-size=\"256x256\"><img loading=\"lazy\" src=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/pngwing.com-thumbnail.png\" alt=\"\" width=\"256\" height=\"256\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/affff443-add5-46c7-b3a2-39ea537465b3.png\" data-size=\"250x250\"><img loading=\"lazy\" src=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/affff443-add5-46c7-b3a2-39ea537465b3-thumbnail.png\" alt=\"\" width=\"250\" height=\"250\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/87bef3f6-e0b2-4235-933e-95aabaca2f0b.png\" data-size=\"250x250\"><img loading=\"lazy\" src=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/87bef3f6-e0b2-4235-933e-95aabaca2f0b-thumbnail.png\" alt=\"\" width=\"250\" height=\"250\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/ef3767d7-7747-4515-9218-1160460bbcd3.png\" data-size=\"250x250\"><img loading=\"lazy\" src=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/ef3767d7-7747-4515-9218-1160460bbcd3-thumbnail.png\" alt=\"\" width=\"250\" height=\"250\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/1e550a20-ce0a-4849-b381-c55edd82d271.jpg\" data-size=\"938x1200\"><img loading=\"lazy\" src=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/1e550a20-ce0a-4849-b381-c55edd82d271-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"983\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/14e1d4ad-953f-4749-92bf-8451151fb478.jpg\" data-size=\"938x1200\"><img loading=\"lazy\" src=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/14e1d4ad-953f-4749-92bf-8451151fb478-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"983\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/9616c65a-0b3c-4ff0-b376-d5268c088c1d.jpg\" data-size=\"938x1200\"><img loading=\"lazy\" src=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/9616c65a-0b3c-4ff0-b376-d5268c088c1d-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"983\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/b3517ca8-f6f2-414e-a06a-ad5975c6f92d.jpg\" data-size=\"800x1023\"><img loading=\"lazy\" src=\"file:///C:/Users/halil/Documents/Publii/sites/pegasus-bayim/preview/media/posts/1/gallery/b3517ca8-f6f2-414e-a06a-ad5975c6f92d-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"982\"></a></figure>\n</div></div>",
+            "image": "file:///C:\Users\halil\Documents\Publii\sites\pegasus-bayim\preview/media/posts/1/EsVOmWUXAAAWC7m-2.png",
+            "author": {
+                "name": "pegasusbayim.com"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-26T02:31:43+03:00",
+            "date_modified": "2021-01-26T02:57:30+03:00"
+        }
+    ]
+}

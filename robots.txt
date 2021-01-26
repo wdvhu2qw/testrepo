@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\halil\Documents\Publii\sites\pegasus-bayim\preview/sitemap.xml
