@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://wdvhu2qw.github.com/testrepo/sitemap.xml
+Sitemap: https://wdvhu2qw.github.io/testrepo/sitemap.xml
