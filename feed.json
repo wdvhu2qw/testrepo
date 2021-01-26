@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://wdvhu2qw.github.io/testrepo/some-header.html",
-            "url": "https://wdvhu2qw.github.io/testrepo/some-header.html",
+            "id": "https://wdvhu2qw.github.io/testrepo/some-header/",
+            "url": "https://wdvhu2qw.github.io/testrepo/some-header/",
             "title": "some header",
             "summary": "a line of text",
             "content_html": "<p>a line of text</p>\n",
